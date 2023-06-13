@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=JahyunHwnag&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=JahyunHwang&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <h3 align="center">Hi! I'm Jahyun </h3>
 <p align="center"><a href="jh940412@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jh940412@gmail.com)](mailto:jh940412@gmail.com)"/></a>&nbsp
@@ -6,7 +6,7 @@
 
 <br>
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">✨Tech Stack✨</h3>
 <p align="center"> 
   
 | Back-End | Front-End | Database | IDE |
@@ -26,7 +26,6 @@
 
   
   
-<h3 align="center"> My Github Stats </h3>
-<p align="center"></p>
+<h3 align="center"> ✨My Github Stats✨ </h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=code-hyun&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-hyun&layout=compact"></p>
   
