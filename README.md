@@ -6,7 +6,7 @@
 
 <br>
 
-<h3 align="center">✨Tech Stack✨</h3>
+<h2 align="center">✨Tech Stack✨</h2>
 <p align="center"> 
   
 | Back-End | Front-End | Database | IDE |
@@ -26,6 +26,6 @@
 
   
   
-<h3 align="center"> ✨My Github Stats✨ </h3>
+<h2 align="center"> ✨My Github Stats✨ </h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=code-hyun&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-hyun&layout=compact"></p>
   
